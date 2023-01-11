@@ -2,6 +2,8 @@ homepage: "https://mfilterit.com/"
 documentation: "https://www.mfilterit.com/ad-fraud-solution"
 versions:
   # Latest release
+  - sha: 7cf43f1e5d95453374ed565c41886005b93b90c3
+    changeNotes: Update template.tpl
   - sha: 6ba6e7cdaf3f5699dcec8670f893d58e0ffb34ad
     changeNotes: Update template.tpl
   # Older versions
