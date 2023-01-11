@@ -1,21 +1,11 @@
-# Copyright 2019 Google LLC
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     https://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-homepage: "https://www.mfilterit.com"
+homepage: "https://mfilterit.com/"
 documentation: "https://www.mfilterit.com/ad-fraud-solution"
 versions:
-	- sha: af3346736baf7f6938a15d12930aa7ab4dce3ca5
-	  changeNotes: changes in tpl file
-  	- sha: f75e3e8de6af69576c82cc0b4bc6136ce2228adb
-      changeNotes: added new files
+  # Latest release
+  #- sha: af3346736baf7f6938a15d12930aa7ab4dce3ca5
+  #  changeNotes: Adding SHA 
+  # Older versions
+  - sha: af3346736baf7f6938a15d12930aa7ab4dce3ca5
+    changeNotes: changes in tpl file
+  - sha: f75e3e8de6af69576c82cc0b4bc6136ce2228adb
+    changeNotes: Iadded new files
