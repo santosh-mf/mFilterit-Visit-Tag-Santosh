@@ -3,7 +3,7 @@ documentation: "https://www.mfilterit.com/ad-fraud-solution"
 versions:
   # Latest release
   - sha: 6ba6e7cdaf3f5699dcec8670f893d58e0ffb34ad
-    changeNotes: Adding TOS
+    changeNotes: Update template.tpl
   # Older versions
   - sha: af3346736baf7f6938a15d12930aa7ab4dce3ca5
     changeNotes: changes in tpl file
